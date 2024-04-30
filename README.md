@@ -4,7 +4,7 @@
 
 <div align="center">
 <h3>About me</h3>
-<p>I am a Brazilian programming student who enjoys the fusion of creativity and technology. I am 19 years old and have completed my Internet Computer Technician course at IFRN/CA. Currently, I am learning Java and Spring.</p>
+<p>I'm a lifelong learner who enjoys solving problems. I study programming in pursuit of challenges that allow me to learn and grow. Currently, I'm dedicated to honing my skills in Java and Spring.</p>
 </div>
 
 ## 
