@@ -4,7 +4,7 @@
 
 <div align="center">
 <h3>About me</h3>
-<p>I'm a lifelong learner who enjoys solving problems. I study programming in pursuit of challenges that allow me to learn and grow. Currently, I'm dedicated to honing my skills in Java and Spring.</p>
+<p>I'm a lifelong learner who enjoys solving problems (with quality). I study programming in pursuit of challenges that allow me to learn and grow. Currently, I'm dedicated to honing my skills in Java and Spring.</p>
 </div>
 
 ## 
