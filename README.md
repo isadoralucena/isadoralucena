@@ -8,7 +8,7 @@
 - 🤝 Collaborative mindset: thriving in teamwork and open to constructive feedback
 - 🚀 Lifelong learner: embracing challenges that fuel personal and professional growth
 - 🎓 Education: completed a technical course in Internet Informatics at IFRN and currently pursuing a degree in Computer Science at UFCG
-- 💻 Tech enthusiast: exploring Software Development, Data, and AI while building a solid foundation, _"friend of all programming languages"_
+- 💻 Tech enthusiast: exploring Software Development, Data, AI, and Mathematics while building a solid foundation, _"friend of all programming languages"_
 
 ## 
 
