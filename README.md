@@ -7,11 +7,12 @@
 <br>
 <img align="right" width="30%" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif">
 
+<div align="left" width="60%">
 🤝 <strong>Collaborative mindset:</strong> thriving in teamwork and open to constructive feedback<br><br>
 🚀 <strong>Lifelong learner:</strong> embracing challenges that fuel personal and professional growth<br><br>
 🎓 <strong>Education:</strong> completed a technical course in Internet Informatics at IFRN and currently pursuing a degree in Computer Science at UFCG<br><br>
-💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI while building a solid foundation, _"friend of all programming languages"_<br><br>
-
+💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI while building a solid foundation, <i>"friend of all programming languages"</i><br><br>
+</div>
 <br>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isadoralucena&theme=discord_old_blurple" alt="Profile Details"/>
