@@ -4,19 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&color=6F51F0&center=true&vCenter=true&width=1000&height=80&lines=Hi!+I'm+Isadora+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h3 align="center">About me</h3>
-<div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="300" width="350" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" style="max-width:100%;margin-right:25px;">
-    <br>
-    <div align="justify">
-    &nbsp;&nbsp;&nbsp;<strong>🤝 Collaborative mindset:</strong> thriving in teamwork and<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;open to constructive feedback<br><br>
-    &nbsp;&nbsp;&nbsp;<strong>🚀 Lifelong learner:</strong> embracing challenges for growth<br><br>
-    &nbsp;&nbsp;&nbsp;<strong>🎓 Education:</strong> technical degree in Internet Informatics (IFRN),<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;now studying Computer Science (UFCG)<br><br>
-    &nbsp;&nbsp;&nbsp;<strong>💻 Tech enthusiast:</strong> exploring Software Development, Data, AI,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Mathematics while building a solid foundation<br><br>
-    </div>
-  </div>
-</div>
-<br><br>
+<br>
+<img align="right" width="30%" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif">
+
+🤝 <strong>Collaborative mindset:</strong> thriving in teamwork and open to constructive feedback<br><br>
+🚀 <strong>Lifelong learner:</strong> embracing challenges that fuel personal and professional growth<br><br>
+🎓 <strong>Education:</strong> completed a technical course in Internet Informatics at IFRN and currently pursuing a degree in Computer Science at UFCG<br><br>
+💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI while building a solid foundation, _"friend of all programming languages"_<br><br>
+
+<br>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isadoralucena&theme=discord_old_blurple" alt="Profile Details"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isadoralucena&theme=discord_old_blurple" alt="Most Commit Language"/>
