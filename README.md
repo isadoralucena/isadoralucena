@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤝 <strong>Collaborative mindset:</strong> thrives in teamwork and values feedback<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 <strong>Lifelong learner:</strong> embraces challenges and growth<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 <strong>Education:</strong> technical course in Internet Informatics at IFRN,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pursuing Computer Science at UFCG<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while building a solid foundation<i>"friend of all programming languages"</i><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while building a solid foundation, <i>"friend of all programming languages"</i><br><br>
 </div>
 <br>
 <p align="center">
