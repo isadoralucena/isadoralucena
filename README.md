@@ -5,9 +5,8 @@
 
 <h3 align="center">About me</h3>
 <br>
-<img align="right" width="30%" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif">
-
-<div align="left" width="60%">
+<img align="left" width="30%" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif">
+<div align="center">
 🤝 <strong>Collaborative mindset:</strong> thriving in teamwork and open to constructive feedback<br><br>
 🚀 <strong>Lifelong learner:</strong> embracing challenges that fuel personal and professional growth<br><br>
 🎓 <strong>Education:</strong> completed a technical course in Internet Informatics at IFRN and currently pursuing a degree in Computer Science at UFCG<br><br>
