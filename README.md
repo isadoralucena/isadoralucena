@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&color=6F51F0&center=true&vCenter=true&width=1000&height=80&lines=Hi!+I'm+Isadora+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h3 align="center">About me</h3>
+<div align="center">
 <br>
 <img align="left" width="30%" src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif">
 <div align="left">
@@ -11,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 <strong>Lifelong learner:</strong> embraces challenges and growth<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 <strong>Education:</strong> technical course in Internet Informatics at IFRN,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pursuing Computer Science at UFCG<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while building a solid foundation, <i>"friend of all programming languages"</i><br><br>
-</div>
+</div></div>
 <br>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isadoralucena&theme=discord_old_blurple" alt="Profile Details"/>
