@@ -13,12 +13,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 <strong>Education:</strong> technical course in Internet Informatics at IFRN,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pursuing Computer Science at UFCG<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while <strong>building a solid foundation</strong></i><br><br>
 </div></div>
-<br>
 <h3 align="center">Contact me</h3>
 <div align="center"> 
   
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=isadorabeatriz595@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadoralucena)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isadoralcn/)
   
 </div>
