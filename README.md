@@ -14,11 +14,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 <strong>Tech enthusiast:</strong> exploring Software Development, Data, and AI<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while <strong>building a solid foundation</strong></i><br><br>
 </div></div>
 <br>
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isadoralucena&theme=discord_old_blurple" alt="Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isadoralucena&theme=discord_old_blurple" alt="Most Commit Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isadoralucena&theme=discord_old_blurple" alt="Stats"/>
-</p>
 <h3 align="center">Contact me</h3>
 <div align="center"> 
   
